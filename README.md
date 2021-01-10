@@ -2,7 +2,7 @@
 many famous algorithms visualized
 
 ###  Maze Generator and solver using dfs 
-[site](http://yogeshpandey.me/maze)
+[site](http://yogeshpandey.me/visualizations/maze)
 
 ### Minimum Spanning Tree using Prim's algorithm
 [site](http://yogeshpandey.me/visualizations/minimum_spanning_tree/)
